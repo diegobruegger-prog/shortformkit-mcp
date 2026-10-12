@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.diegobruegger-prog/shortformkit",
+  "title": "Shortform Kit",
+  "description": "Transcribe, read and download public Reels, TikToks and YouTube videos, plus sourced creator data",
+  "version": "1.0.0",
+  "websiteUrl": "https://shortformkit.com/mcp-server/",
+  "repository": { "url": "https://github.com/diegobruegger-prog/shortformkit-mcp", "source": "github" },
+  "remotes": [
+    { "type": "streamable-http", "url": "https://shortformkit.com/mcp" }
+  ]
+}
