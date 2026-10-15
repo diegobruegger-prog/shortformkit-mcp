@@ -3,10 +3,32 @@
   "name": "io.github.diegobruegger-prog/shortformkit",
   "title": "Shortform Kit",
   "description": "Transcribe, read and download public Reels, TikToks and YouTube videos, plus sourced creator data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://shortformkit.com/mcp-server/",
-  "repository": { "url": "https://github.com/diegobruegger-prog/shortformkit-mcp", "source": "github" },
+  "icons": [
+    {
+      "src": "https://shortformkit.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://shortformkit.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/diegobruegger-prog/shortformkit-mcp",
+    "source": "github"
+  },
   "remotes": [
-    { "type": "streamable-http", "url": "https://shortformkit.com/mcp" }
+    {
+      "type": "streamable-http",
+      "url": "https://shortformkit.com/mcp"
+    }
   ]
 }
