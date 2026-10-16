@@ -12,7 +12,7 @@ Platform guides with example prompts: [Instagram MCP server](https://shortformki
 
 | Tool | What it does |
 |---|---|
-| `get_video_info` | Title, author, duration, qualities, caption and hashtags of a public Instagram, YouTube, TikTok, X, Facebook, Pinterest, Threads, Vimeo or Reddit post |
+| `get_video_info` | Title, author, duration, qualities, caption and hashtags of a public Instagram, YouTube, TikTok, X, Facebook or Pinterest post |
 | `download_media` | MP4, MP3, image, cover or a frame at a timestamp, optionally only a section; returns a link valid for 15 minutes |
 | `transcribe_video` | Whisper transcript with timestamps, 90+ languages, optional translation to English |
 | `youtube_channel_id` | UC channel ID, handle, channel URL and RSS feed from a @handle or any video link |
