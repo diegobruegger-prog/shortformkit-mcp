@@ -4,7 +4,7 @@ Free remote MCP server for AI assistants (Claude, ChatGPT, Cursor, VS Code, Clau
 
 **URL:** `https://shortformkit.com/mcp` (Streamable HTTP)
 
-[![Install in Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=shortformkit&config=eyJ1cmwiOiAiaHR0cHM6Ly9zaG9ydGZvcm1raXQuY29tL21jcCJ9) [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_MCP-0098FF?logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=shortformkit&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A//shortformkit.com/mcp%22%7D)
+[![MCP status](https://shortformkit.com/api/mcp-badge?url=https%3A%2F%2Fshortformkit.com%2Fmcp)](https://shortformkit.com/mcp-server-tester/?url=https%3A%2F%2Fshortformkit.com%2Fmcp) [![Install in Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=shortformkit&config=eyJ1cmwiOiAiaHR0cHM6Ly9zaG9ydGZvcm1raXQuY29tL21jcCJ9) [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_MCP-0098FF?logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=shortformkit&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A//shortformkit.com/mcp%22%7D)
 
 Platform guides with example prompts: [Instagram MCP server](https://shortformkit.com/instagram-mcp-server/), [TikTok MCP server](https://shortformkit.com/tiktok-mcp-server/), [YouTube MCP server](https://shortformkit.com/youtube-mcp-server/).
 
