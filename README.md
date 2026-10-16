@@ -42,7 +42,7 @@ claude mcp add --transport http shortformkit https://shortformkit.com/mcp
 { "servers": { "shortformkit": { "type": "http", "url": "https://shortformkit.com/mcp" } } }
 ```
 
-**Claude (claude.ai, desktop):** Settings, Connectors, Add custom connector, paste `https://shortformkit.com/mcp` (custom connectors depend on your plan).
+**Claude (claude.ai, desktop):** Customize, Connectors, + Add, Add custom connector, paste `https://shortformkit.com/mcp` (custom connectors depend on your plan).
 
 ## Notes
 
